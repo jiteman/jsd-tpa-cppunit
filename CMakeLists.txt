@@ -14,8 +14,8 @@ add_subdirectory( 2-tpa-cppunit-clocker )
 add_subdirectory( 3-tpa-cppunit-lib )
 
 # tests
-add_subdirectory( 4-tpa-cppunit-test-lib )
-add_subdirectory( 5-tpa-cppunit-tests )
+#add_subdirectory( 4-tpa-cppunit-test-lib )
+#add_subdirectory( 5-tpa-cppunit-tests )
 #~tests
 
 
